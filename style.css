@@ -1,0 +1,9 @@
+.linha {
+  background-color: rgba(0, 0, 0, 0.973);
+  height: 6px;
+  width: 100px;
+  margin: 10px auto;  
+}
+a {
+ font-size: 50px;
+}
